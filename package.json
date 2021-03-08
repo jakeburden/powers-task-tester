@@ -1,0 +1,17 @@
+{
+  "name": "powers-task-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "powers-task-tester": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.8.0"
+  }
+}
