@@ -34,7 +34,9 @@ To end the program, press `ctrl-c` in the terminal window that you've run the pr
 You should see two things happen:
 
 1. A private chromium window will open the task URL. If the task tester it working, you should see the tasks progress as expected.
-1. In your terminal, you'll see a log of `amp` values. If you see an error message rather than a log of `amp` values, something has probably gone wrong, in which case see the **Troubleshooting** section below.
+1. In your terminal, you'll see a log of `amp` values and possibly a log of messages such as `Failed to load resource: the server responded with a status of 404 ()`.
+
+If the task fails to progress in the browser window, and you see an error message rather than a log of `amp` values, something has probably gone wrong, in which case see the **Troubleshooting** section below.
 
 ### Troubleshooting
 
